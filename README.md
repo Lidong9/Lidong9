@@ -6,7 +6,7 @@
 * **Lokalita:** Brno, CZ
 
 ### 📊 Statistiky
-[![Lidong9 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lidong9&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Lidong9&show_icons=true&theme=tokyonight" alt="Lidong9 stats" />
 
 ---
-*„VHDL mě baví víc než JavaScript.“* ⚡
+*„VHDL“* ⚡
