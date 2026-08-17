@@ -4,7 +4,6 @@
 Hello! My name is David. I am currently in my third year studying Telecommunications at Brno University of Technology (VUT FEKT). I have a solid foundation in general electrical engineering and a strong passion for digital electronics and hardware design.
 
 ## What I'm Working On
-* Designing a RISC-V processor core from scratch using SystemVerilog.
 * Building a startup project called Skill AI, where I also manage the marketing strategy.
 
 ## Skills & Technologies
